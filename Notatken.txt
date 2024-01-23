@@ -1,0 +1,22 @@
+Temat: Struktury w C++
+def:
+	struct Nazwa {typ nazwa...}
+										Kobieta jest obiektem ~Arkadiusz Waliczek 2024
+
+Napisz aplikacje konsolową onazwie "Państwa" aplikacja posiada struktury.
+Państwa flaga.
+Wyświetla 5 różnych Państw na podstawie nr: 1,2,3,4,5
+czyli jeśli 1 to..... 2 to ......
+Flaga
+	string kolory
+	unsigned int dd,mm,rr;
+
+
+
+Państwa:
+	string nazwa
+	int ludnosć
+	int ilość_wojew.
+	Flaga opis_flagi
+Aplikacja przełącza się między obiektami przez zastosowany wskaźnik.
+zastosój switch czse
